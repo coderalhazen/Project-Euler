@@ -1,6 +1,6 @@
 # Project-Euler
 
-Definition: Project Euler solutions written in MATLAB.
+Description: Project Euler solutions written in MATLAB.
 
 Problems: projecteuler.net
 
